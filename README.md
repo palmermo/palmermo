@@ -13,11 +13,6 @@ Here is my 2020 reading list so far:
 * The Platform Revolution
 * Storytelling with Data
 
-
-<p align="center">
-Check out my repos ⬇️  
-</p>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=palmermo.palmermo)
 
 <!--

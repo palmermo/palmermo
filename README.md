@@ -1,7 +1,3 @@
-### Hi i'm Matthew. 
-
-
-* * *
 
 ![Matthew Palmer Intro](https://i.ibb.co/ZWvJb7F/ezgif-com-video-to-gif-1.gif)
 

@@ -14,6 +14,12 @@ Here is my 2020 reading list so far:
 * Storytelling with Data
 
 
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=palmermo.palmermo)
+
 <!--
 **palmermo/palmermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
